@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - 'trunk'
+      - 'eap/kotlin'
     tags-ignore:
       - '**'
 
